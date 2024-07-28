@@ -1,5 +1,3 @@
-# Graduation thesis
-
 # Project title: Real estate management
 
 The solution for CRM customers, storage, and visualization (2D and 3D) of real estate.
@@ -10,6 +8,7 @@ The solution for CRM customers, storage, and visualization (2D and 3D) of real e
 - Usage
 - Features
 - Contact
+- Deployment
 
 ## Installation
 
@@ -39,3 +38,8 @@ The solution for CRM customers, storage, and visualization (2D and 3D) of real e
 ## Contact
 
 - Email: 20521185@gm.uit.edu.vn
+
+## Deployment
+
+- Backend: https://breal-estate-management-system-ac54c699b7a0.herokuapp.com/v1/project
+- Frontend: https://real-estate-virid-five.vercel.app/
